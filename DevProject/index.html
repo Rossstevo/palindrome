@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Get Text Input Field Value in JavaScript</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<h1>Stevo's hi-tech palindrome checker</h1>
+   <input type="text" placeholder="Enter here..." id="myInput">
+    <button type="button" onclick="getInputValue();">Test it</button>
+    
+
+
+   
+
+    <script>
+        function getInputValue(){
+            // Selecting the input element and get its value 
+            var inputVal = document.getElementById("myInput").value;
+            
+            
+            
+            //let str = "A nut for a jar? of tuna";
+            //console.log(str)
+            // remove characters and space 
+            str2 = inputVal.replace(/[.,\s?]/g, "");
+
+            // make lower case
+            str2 = str2.toLowerCase()
+            //console.log(str);
+
+            //reverse the string using 3 steps
+
+            // Step 1. Use the split() method to return a new array
+            var splitString = str2.split("");
+            ////console.log(splitString);
+
+            // Step 2. Use the revers() method to revers the new created array
+            var reverseArray = splitString.reverse();
+            //console.log(reverseArray);
+
+            // use the join(method) to join all elements of the array to make a string 
+            var joinArray = reverseArray.join("");
+            //console.log(joinArray);
+            //var result = "";
+
+            // create if statement which prints the answer. 
+
+            if (str2 == joinArray){
+            alert(inputVal + " is a palindrome")
+            }else{
+            alert(inputVal + " is not a palindrome")
+            }
+        
+
+        }
+
+    </script>
+</body>
+</html>
