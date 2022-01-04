@@ -10,6 +10,7 @@ This web page takes a text input and alerts the user if the text is or is not a 
 I made this webpage to learn how to encorporate HTML, CSS and JS. 
 
 **Built with**
+
 HTML
 CSS
 JAVASCRIPT
