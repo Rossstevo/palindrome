@@ -1,4 +1,5 @@
 **Palindrome Solver.**
+
 This web page takes a text input and alerts the user if the text is or is not a pallindrome.
 
 **How it works**
