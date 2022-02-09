@@ -14,9 +14,7 @@ This web application takes a text input and alerts the user if the input is or i
 
 **Built with**
 
-- HTML
-- CSS
-- JAVASCRIPT
+HTML/CSS/JAVASCRIPT
 
 **Key lessons learnt**
 
