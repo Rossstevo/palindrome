@@ -2,6 +2,9 @@
 
 This web application takes a text input and alerts the user if the input is or is not a pallindrome.
 
+![palindrome](https://user-images.githubusercontent.com/85199675/153256312-25820c88-1934-4ac5-920d-7368add42ee7.png)
+
+
 **Learning objectives**
 
 1. Improve HTML, CSS and JS
