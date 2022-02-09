@@ -1,17 +1,27 @@
 **Palindrome Solver.**
 
-This web page takes a text input and alerts the user if the text is or is not a pallindrome.
+This web application takes a text input and alerts the user if the input is or is not a pallindrome.
 
-**How it works**
+**Learning objectives**
 
-1. The script firstly removes any unwanted characters (spaces, #@/.,) from the text input and converts it to lowercase. 
-2. The string is then reversed using three functions (.split, .reverse and .join).
-3. The reversed string is then compared to the orinigal string an alert box informs the user if their input is/is not a palindrome. 
-
-I made this webpage to learn how to encorporate HTML, CSS and Javascript. 
+1. Improve HTML, CSS and JS
+2. Think about user friendly design
+3. Begin to get familiar with GIT
+4. Regular Expressions
 
 **Built with**
 
 - HTML
 - CSS
 - JAVASCRIPT
+
+**Key lessons learnt**
+
+This was my first project incorporating HTML, CSS and JAVASCRIPT and overall I am pleased with the result. I learned about structure and how to build a project from idea to completion. 
+
+**Take aways **
+- Plan on paper, not just in your head.
+- Slow down. Spelling mistakes are not ok. 
+- Make clear comments - I asked my friend to take a look and he noticed a handfull of mistakes in the spelling. 
+- label classes and ID's clearly
+- DRY (don't repeat yourself)
