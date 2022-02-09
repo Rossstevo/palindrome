@@ -18,11 +18,16 @@ HTML/CSS/JAVASCRIPT
 
 **Key lessons learnt**
 
-This was my first project incorporating HTML, CSS and JAVASCRIPT and overall I am pleased with the result. I learned about structure and how to build a project from idea to completion. 
+This was my first project incorporating HTML, CSS and JAVASCRIPT and overall I am pleased with the result. I learned about structure and how to build a project from idea to completion. The best lesson I learnt is that the idea drives the project. 
 
-**Take aways **
+- Regular expressions 
+- Splitting strings into arrays
+- Document.GetElementByID
+
+**Take aways**
+If I were to redo this project, here are a few things I would consider
 - Plan on paper, not just in your head.
 - Slow down. Spelling mistakes are not ok. 
-- Make clear comments - I asked my friend to take a look and he noticed a handfull of mistakes in the spelling. 
-- label classes and ID's clearly
-- DRY (don't repeat yourself)
+- Make clear comments in the code.
+- label classes and ID's clearly.
+- DRY (don't repeat yourself).
